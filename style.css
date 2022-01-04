@@ -12,7 +12,7 @@
         color: #e9a908;
     }
     
-    section {
+    .flex-item {
         display: flex;
     }
     
@@ -52,4 +52,24 @@
         background-image: url(images/dream-bg.png);
         background-repeat: no-repeat;
         background-position: right;
+    }
+    
+    .Exper-area {
+        padding: 5%;
+    }
+    
+    .style-pt {
+        width: 40%;
+        box-shadow: 5px 5px 30px grey;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding: 20px;
+    }
+    
+    .style-pt h3 {
+        color: #e9a908;
+    }
+    
+    .style-pt h2 {
+        font-size: 40px;
     }
